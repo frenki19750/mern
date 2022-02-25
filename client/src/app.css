@@ -1,0 +1,13 @@
+@media (min-width: 600px) {
+    /* .MuiGrid-grid-sm-6.MuiGrid-grid-md-6 {
+        flex-basis: 33% !important;
+    } */
+    .MuiGrid-grid-sm-6 {
+        flex-basis: 50% !important;
+    }
+
+    p.MuiTypography-root.MuiTypography-body2.MuiTypography-colorTextSecondary{
+        height: 100px;
+        overflow: hidden;
+    }
+}
